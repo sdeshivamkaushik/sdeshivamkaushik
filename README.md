@@ -125,7 +125,7 @@ A modern Android chat application built using Java and Android Studio.
 
 ### 🌐 Portfolio
 
-👉 [Visit my Portfolio](https://shivam-kaushik-portfolio-14gb-qzzndwmdb-shivamkaushikfa-7963.vercel.app/)
+👉 [Visit my Portfolio](https://shivam-kaushik-portfolio-14gb.vercel.app/)
 
 ### 🐙 GitHub
 
